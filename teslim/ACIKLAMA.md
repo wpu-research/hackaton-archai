@@ -2,6 +2,8 @@
 
 **Takım / ürün:** ArchAI · Hackathon: ISTANBUL Ignited by Slush'D — Manus "10× Your Brand" · 12 Ekim 2026
 
+**Kod:** https://github.com/wpu-research/archai-growth-engine (bugünkü iş: `growth_engine/` + 12 Ekim commit'leri)
+
 ## Türkçe
 
 **Sorun.** İstanbul'da bir müteahhit satılık bir arsayı değerlendirmek için mimardan avan proje ve maliyet tahmini bekliyor: arsa başına 3–5 gün. Fırsatlar kaçıyor ya da yanlış iş modeliyle alınıyor.
